@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-05T13:36:13Z",
+  "checkedAt": "2026-11-06T13:19:36Z",
   "domains": {
     "fabrik.co.uk": {
       "domain": "fabrik.co.uk",
@@ -17,7 +17,7 @@
       "status": [
         "active"
       ],
-      "lastChecked": "2026-11-05T13:36:13Z",
+      "lastChecked": "2026-11-06T13:19:36Z",
       "lastChanged": "2026-09-18T12:59:37Z",
       "alertedThresholds": [
         90
@@ -38,7 +38,7 @@
       "status": [
         "active"
       ],
-      "lastChecked": "2026-11-05T13:36:13Z",
+      "lastChecked": "2026-11-06T13:19:36Z",
       "lastChanged": "2026-09-18T12:59:37Z",
       "alertedThresholds": [],
       "error": null,
@@ -48,11 +48,11 @@
       "domain": "fabrikagency.com",
       "registrar": "GoDaddy.com, LLC",
       "created": "2008-04-14",
-      "updated": "2026-04-15",
+      "updated": "2026-11-06",
       "expires": "2027-04-14",
       "nameservers": [
-        "ns1.domain-is-4-sale-at-domainmarket.com",
-        "ns2.domainmarket.com"
+        "ns1.atom.com",
+        "ns2.atom.com"
       ],
       "status": [
         "client delete prohibited",
@@ -60,8 +60,8 @@
         "client transfer prohibited",
         "client update prohibited"
       ],
-      "lastChecked": "2026-11-05T13:36:13Z",
-      "lastChanged": "2026-09-18T12:59:37Z",
+      "lastChecked": "2026-11-06T13:19:36Z",
+      "lastChanged": "2026-11-06T13:19:36Z",
       "alertedThresholds": [],
       "error": null,
       "consecutiveErrors": 0
@@ -81,7 +81,7 @@
       "status": [
         "client transfer prohibited"
       ],
-      "lastChecked": "2026-11-05T13:36:13Z",
+      "lastChecked": "2026-11-06T13:19:36Z",
       "lastChanged": "2026-09-18T12:59:37Z",
       "alertedThresholds": [],
       "error": null,

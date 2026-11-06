@@ -1,1 +1,19 @@
-[]
+[
+  {
+    "at": "2026-11-06T13:19:36Z",
+    "domain": "fabrikagency.com",
+    "changes": [
+      {
+        "field": "nameservers",
+        "from": [
+          "ns1.domain-is-4-sale-at-domainmarket.com",
+          "ns2.domainmarket.com"
+        ],
+        "to": [
+          "ns1.atom.com",
+          "ns2.atom.com"
+        ]
+      }
+    ]
+  }
+]
